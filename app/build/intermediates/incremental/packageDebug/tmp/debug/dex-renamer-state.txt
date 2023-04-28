@@ -1,7 +1,7 @@
-#Fri Apr 28 17:15:39 ICT 2023
-base.1=C\:\\Users\\admin\\Desktop\\mlkit-android-master\\mlkit-android-master\\object-detection\\final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+#Fri Apr 28 17:28:33 ICT 2023
+base.1=C\:\\Users\\admin\\Desktop\\odml-pathways-main\\odml-pathways-main\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
 path.1=classes.dex
-base.0=C\:\\Users\\admin\\Desktop\\mlkit-android-master\\mlkit-android-master\\object-detection\\final\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=C\:\\Users\\admin\\Desktop\\odml-pathways-main\\odml-pathways-main\\object-detection\\codelab2\\android\\final\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

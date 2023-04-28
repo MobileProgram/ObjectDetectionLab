@@ -1,2 +1,2 @@
-com/google/mlkit/codelab/objectdetection/BuildConfig.java
- com.google.mlkit.codelab.objectdetection.BuildConfig
+org/tensorflow/codelabs/objectdetection/BuildConfig.java
+ org.tensorflow.codelabs.objectdetection.BuildConfig

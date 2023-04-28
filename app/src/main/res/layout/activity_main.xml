@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="org.tensorflow.codelabs.objectdetection.MainActivity">
 
     <FrameLayout
         android:layout_width="match_parent"
@@ -54,7 +54,7 @@
             android:adjustViewBounds="true"
             android:contentDescription="@null"
             android:scaleType="centerCrop"
-            android:src="@drawable/demo_img1" />
+            android:src="@drawable/img_meal_one" />
 
         <ImageView
             android:id="@+id/imgSampleTwo"
@@ -65,7 +65,7 @@
             android:adjustViewBounds="true"
             android:contentDescription="@null"
             android:scaleType="centerCrop"
-            android:src="@drawable/demo_img2" />
+            android:src="@drawable/img_meal_two" />
 
         <ImageView
             android:id="@+id/imgSampleThree"
@@ -74,7 +74,7 @@
             android:adjustViewBounds="true"
             android:contentDescription="@null"
             android:scaleType="centerCrop"
-            android:src="@drawable/demo_img3" />
+            android:src="@drawable/img_meal_three" />
     </LinearLayout>
 
     <Button

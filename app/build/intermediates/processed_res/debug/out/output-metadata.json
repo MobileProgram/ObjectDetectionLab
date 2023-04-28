@@ -4,7 +4,7 @@
     "type": "PROCESSED_RES",
     "kind": "Directory"
   },
-  "applicationId": "com.google.mlkit.codelab.objectdetection",
+  "applicationId": "org.tensorflow.codelabs.objectdetection",
   "variantName": "processDebugResources",
   "elements": [
     {

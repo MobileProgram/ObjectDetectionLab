@@ -8,7 +8,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.google.mlkit.codelab.objectdetection"
+        applicationId "org.tensorflow.codelabs.objectdetection"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 1
@@ -39,11 +39,10 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.3.0'
     implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
-    implementation 'androidx.exifinterface:exifinterface:1.0.0'
-    testImplementation 'junit:junit:4.+'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2'
+    implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.3.0'
+    implementation 'androidx.exifinterface:exifinterface:1.3.2'
 
-    // MLKit
-    implementation 'com.google.mlkit:object-detection:16.2.3'
+    // TFLite
+    implementation 'org.tensorflow:tensorflow-lite-task-vision:0.3.1'
 }

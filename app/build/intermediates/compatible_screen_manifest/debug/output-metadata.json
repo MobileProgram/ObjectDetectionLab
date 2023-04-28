@@ -4,7 +4,7 @@
     "type": "COMPATIBLE_SCREEN_MANIFEST",
     "kind": "Directory"
   },
-  "applicationId": "com.google.mlkit.codelab.objectdetection",
+  "applicationId": "org.tensorflow.codelabs.objectdetection",
   "variantName": "debug",
   "elements": []
 }
